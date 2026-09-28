@@ -1,0 +1,16 @@
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\bin\Debug\net11.0\proejto c#.exe
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\bin\Debug\net11.0\proejto c#.deps.json
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\bin\Debug\net11.0\proejto c#.runtimeconfig.json
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\bin\Debug\net11.0\proejto c#.runtimeconfig.dev.json
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\bin\Debug\net11.0\proejto c#.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\bin\Debug\net11.0\proejto c#.pdb
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\proejto c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\proejto c#.AssemblyInfoInputs.cache
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\proejto c#.AssemblyInfo.cs
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\proejto c#.csproj.CoreCompileInputs.cache
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\proejto c#.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\refint\proejto c#.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\proejto c#.pdb
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\proejto c#.genruntimeconfig.cache
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\ref\proejto c#.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\obj\Debug\net11.0\proejto c#.csproj.Up2Date
