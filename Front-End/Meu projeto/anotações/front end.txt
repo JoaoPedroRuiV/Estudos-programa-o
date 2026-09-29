@@ -1,0 +1,47 @@
+text-align: center; : Alinhar
+
+margin-left/right/bottom/top: 50%; : mandar pros lados a porcentagem que quiser
+
+
+ background-color: #1f2937;
+    color: #f8fafc; : cores, background é fundo
+
+font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;  : Adicionar fonte
+
+ <header>
+        <h1>MEU TREINO</h1>
+    </header>  : você cria o seu nome e o seu escopo aonde vão ficar guardados seus itens pra você organizar, não precisa
+ser header, pode ser outros nomes pra você poder organizar
+
+<main>
+   <p>Olá, meu nome é Joao pedro e eu estou estudando programação.</p> 
+   
+    </main> : outro exemplo
+
+
+ <ul>
+          <li>Jogar video game</li> 
+          <li>Assistir filmes</li>
+          <li>Ouvir música</li>
+          <li>Ler livros</li>
+    </ul>  : lista duas ul e li dentro
+
+
+
+
+Classes : <div class="botoes-cima">
+    <button>Peito</button>
+    <button>Costas</button>
+    <button>Pernas</button>
+</div>
+
+<div class="botao-baixo">
+    <button>Finalizar</button>
+</div>
+<button id="botao1">Peito</button>
+
+
+
+botao: border: none → tira a borda
+border-radius → deixa os cantos arredondados
+padding → aumenta o espaço dentro do botão

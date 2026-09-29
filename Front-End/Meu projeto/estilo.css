@@ -1,0 +1,87 @@
+/* Estilos base em CSS3 */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	line-height: 2.0;
+	color: #1f2937;
+	background: #122c47;
+}
+
+img,
+svg {
+	display: block;
+	max-width: 100%;
+}
+
+input,
+textarea,
+select {
+	font: inherit;
+}
+
+header {
+    background-color: #1f2937;
+    color: #f8fafc;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Botao formulado */
+   .css-button-3d--sand {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    background: #ced4da;
+    box-shadow: 0 5px #adb5bd;
+}
+
+.botoes {
+    .botoes {
+    max-width: 1000px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    flex-wrap: wrap;
+}
+}
+
+.css-button-3d--sand:hover {
+    box-shadow: 0 3px #adb5bd;
+    top: 1px;
+}
+
+.css-button-3d--sand:active {
+    top: 5px;
+    box-shadow: 0 0 #adb5bd;
+}
+/* Botao formulado */
+
+.treinos {
+    text-align: center;
+	color: #f8fafc;
+	padding: 20px;
+	margin: 20px;
+}
