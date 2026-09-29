@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hipotenusa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c84e7c0e02680cf7761387988cebd7e7e1b5e2a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39bcd12888a4a3a0ccd091ccef3bda0e5de8c20d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hipotenusa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hipotenusa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
