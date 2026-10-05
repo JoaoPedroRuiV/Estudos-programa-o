@@ -1,0 +1,17 @@
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\bin\Debug\net8.0\repeticao copy.exe
+c:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\bin\Debug\net8.0\repeticao copy.deps.json
+c:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\bin\Debug\net8.0\repeticao copy.runtimeconfig.json
+c:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\bin\Debug\net8.0\repeticao copy.runtimeconfig.dev.json
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\bin\Debug\net8.0\repeticao copy.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\bin\Debug\net8.0\repeticao copy.pdb
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repeticao copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repeticao copy.AssemblyInfoInputs.cache
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repeticao copy.AssemblyInfo.cs
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repeticao copy.csproj.CoreCompileInputs.cache
+c:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repeticao copy.sourcelink.json
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repeticao copy.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\refint\repeticao copy.dll
+C:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repeticao copy.pdb
+c:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repeticao copy.genruntimeconfig.cache
+c:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\ref\repeticao copy.dll
+c:\Users\joaos\OneDrive\Área de Trabalho\proejto c#\Exercicio-for\obj\Debug\net8.0\repetica.18649F5A.Up2Date
